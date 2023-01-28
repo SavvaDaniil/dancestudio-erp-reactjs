@@ -1,0 +1,10 @@
+.system-loading {
+    text-align: center;
+    margin-top: 12%;
+}
+.system-loading img {
+    max-height: 150px;
+}
+.system-loading p {
+    margin-top:25px;
+}

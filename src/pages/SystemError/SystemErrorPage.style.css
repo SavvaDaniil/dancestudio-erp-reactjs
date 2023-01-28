@@ -1,0 +1,14 @@
+.system-error {
+    text-align: center;
+    margin-top: 12%;
+}
+.system-error img {
+    max-height: 150px;
+}
+.system-error p {
+    margin-top:25px;
+    color: red;
+}
+.system-error .btn {
+    margin-top: 25px;
+}
